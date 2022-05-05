@@ -1,3 +1,8 @@
 # Michael-Bee
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+<a href="https://github.com/Michael-Bee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&hide=stars&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Michael-Bee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact" />
+</a>
