@@ -15,6 +15,6 @@ const michael = {
 }
 ```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&theme=merko&hide=stars,issues&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Bee&theme=merko" alt="mystreak"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&theme=slateorange&hide=stars,issues&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Bee&theme=slateorange" alt="mystreak"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact&theme=slateorange" />
