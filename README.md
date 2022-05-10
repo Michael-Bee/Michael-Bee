@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Michael-Bee/Michael-Bee/blob/main/FernBackground2.jpg?raw=true"  />
-</p>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Bee&theme=gotham" alt="mystreak"/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact&theme=gotham" /> -->
-
-
 ```javascript
 const michael = {
   pronouns: "he" | "him",
@@ -16,6 +7,15 @@ const michael = {
   technologies: [jQuery, React, Node, Express, Bootstrap, JWT],
 }
 ```
+
+
+<p align="center">
+  <img src="https://github.com/Michael-Bee/Michael-Bee/blob/main/FernBackground2.jpg?raw=true"  />
+</p>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Bee&theme=gotham" alt="mystreak"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact&theme=gotham" /> -->
 
 
 <p>
