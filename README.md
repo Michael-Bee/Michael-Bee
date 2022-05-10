@@ -10,7 +10,7 @@ const michael = {
 }
 ```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&hide_rank=true&theme=gotham&hide=issues&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Bee&theme=gotham" alt="mystreak"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact&theme=gotham" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Bee&theme=gotham" alt="mystreak"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Bee&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Bee&layout=compact&theme=gotham" />
 
 <p>
 <a href="https://www.linkedin.com/in/michael-bee-13676a225/">
