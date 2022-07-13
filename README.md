@@ -7,9 +7,9 @@
 const michael = {
   pronouns: "he" | "him",
   location: "Illinois",
-  languages: [Javascript, HTML, CSS],
-  database: [MySQL, Sequelize, GraphQL, MongoDB],
-  technologies: [jQuery, React, Node, Express, Bootstrap, JWT],
+  languages: ["Javascript", "HTML", "CSS"],
+  database: ["MySQL", "Sequelize", "GraphQL", "MongoDB"],
+  technologies: ["jQuery", "React", "Node", "Express", "Bootstrap", "JWT"],
 }
 ```
 
